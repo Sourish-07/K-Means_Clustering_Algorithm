@@ -1,4 +1,4 @@
-**Customer Segmentation using K-Means Clustering**
+##**Customer Segmentation using K-Means Clustering**
 
 **Objective:**
 To group customers of a retail store based on their purchase history, focusing on annual income and spending score, using the K-means clustering algorithm.
